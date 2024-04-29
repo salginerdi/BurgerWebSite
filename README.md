@@ -6,7 +6,7 @@ Bu proje, React ve React Router kullanılarak oluşturulmuş basit bir burger si
 
 1. Projeyi klonlayın:
 
-git clone https://github.com/salginerdi/BurgerYiyelimWebsite.git
+git clone https://github.com/salginerdi/BurgerWebsite.git
 
 
 2. Proje dizinine gidin:
@@ -37,7 +37,7 @@ Projeyi başlattıktan sonra, tarayıcınızda [localhost:5173](http://localhost
 
 ## Katkıda Bulunma
 
-Bu proje her türlü katkıya açıktır. Herhangi bir hata bulursanız veya bir öneriniz varsa, lütfen bir [ISSUE](https://github.com/salginerdi/BurgerYiyelimWebsite/issues) oluşturun veya bir pull talebi gönderin.
+Bu proje her türlü katkıya açıktır. Herhangi bir hata bulursanız veya bir öneriniz varsa, lütfen bir [ISSUE](https://github.com/salginerdi/BurgerWebsite/issues) oluşturun veya bir pull talebi gönderin.
 
 _______________________________
 # React + Vite
