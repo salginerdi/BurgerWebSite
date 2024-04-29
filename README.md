@@ -1,28 +1,34 @@
-# Burger Sitesi
+# Burger Website
 
 Bu proje, React ve React Router kullanılarak oluşturulmuş basit bir burger sitesidir. Bu site, kullanıcıların farklı sayfalar arasında gezinmelerine olanak tanır.
+
+incelemek için: [Burger Website](https://burger-web-site-two.vercel.app/)
 
 ## Kurulum
 
 1. Projeyi klonlayın:
 
-git clone https://github.com/salginerdi/BurgerWebsite.git
-
+    ```bash
+    git clone https://github.com/salginerdi/BurgerWebsite.git
+    ```
 
 2. Proje dizinine gidin:
 
-proje ana dizindedir . ile ana dizinde kalabilirsiniz.
-
+    ```bash
+    cd BurgerWebsite
+    ```
 
 3. Bağımlılıkları yükleyin:
 
-npm install
-
+    ```bash
+    npm install
+    ```
 
 4. Projeyi başlatın:
 
-npm run dev
-
+    ```bash
+    npm run dev
+    ```
 
 ## Kullanım
 
@@ -38,6 +44,56 @@ Projeyi başlattıktan sonra, tarayıcınızda [localhost:5173](http://localhost
 ## Katkıda Bulunma
 
 Bu proje her türlü katkıya açıktır. Herhangi bir hata bulursanız veya bir öneriniz varsa, lütfen bir [ISSUE](https://github.com/salginerdi/BurgerWebsite/issues) oluşturun veya bir pull talebi gönderin.
+
+_______________________________
+
+# Burger Website
+
+This project is a simple burger website created using React and React Router. This site allows users to navigate between different pages.
+
+To check it out: [Burger Website](https://burger-web-site-two.vercel.app/)
+
+## Installation
+
+1. Clone the project:
+
+    ```bash
+    git clone https://github.com/salginerdi/BurgerWebsite.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd BurgerWebsite
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the project:
+
+    ```bash
+    npm run dev
+    ```
+
+## Usage
+
+After starting the project, you can view the burger website by going to [localhost:5173](http://localhost:5173) in your browser.
+
+## Pages
+
+- **Home**: On this page, users can see a large banner image, order button, and icons of social media accounts.
+- **Menu**: This page contains the burger menu.
+- **About Us**: Page for getting information about the company.
+- **Contact**: Page for sending messages to the company and containing contact information.
+
+## Contributing
+
+This project is open to contributions of all kinds. If you find any bugs or have a suggestion, please create an [ISSUE](https://github.com/salginerdi/BurgerWebsite/issues) or submit a pull request.
+
 
 _______________________________
 # React + Vite
